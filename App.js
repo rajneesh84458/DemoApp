@@ -4,7 +4,7 @@ import { View, Text } from 'react-native'
 export default function App() {
     return (
         <View>
-            <Text>hello world</Text>
+            <Text>how are you</Text>
         </View>
     )
 }
